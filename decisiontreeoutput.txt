@@ -1,0 +1,4 @@
+('confusion matrix for decision tree prediction: ', array([[21,  6],
+       [ 6, 28]]))
+('Accuracy for decision tree prediction:', 0.8032786885245902)
+('Precision for decision tree prediction:', array([0.77777778, 0.82352941]))
