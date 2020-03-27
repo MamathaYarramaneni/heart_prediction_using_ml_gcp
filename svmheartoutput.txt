@@ -1,0 +1,4 @@
+('confusion matrix for SVM prediction: ', array([[20,  7],
+       [ 4, 30]]))
+('Accuracy for SVM prediction:', 0.819672131147541)
+('Precision for SVM prediction:', array([0.83333333, 0.81081081]))
