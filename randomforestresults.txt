@@ -1,0 +1,4 @@
+('confusion matrix for Random forest prediction: ', array([[24,  3],
+       [ 5, 29]]))
+('Accuracy for Random forest prediction:', 0.8688524590163934)
+('Precision for Random forest prediction:', array([0.82758621, 0.90625   ]))
