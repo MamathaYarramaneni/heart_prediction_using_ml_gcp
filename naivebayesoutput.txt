@@ -2,3 +2,4 @@
  [ 3, 31]])
 ('Accuracy for Naive Bayes prediction': 0.8524590163934426)
 ('Precision for Naive Bayes prediction': [0.875      0.83783784])
+
